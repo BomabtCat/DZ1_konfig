@@ -38,6 +38,7 @@
 
 Файл содержит настройки эмулятора:
 
+```python
 [emulator]
 vfs_path = "C:/Users/Артур/Downloads/Конфигурационка1/filesystem.zip"
 log_file = "C:/Users/Артур/Downloads/Конфигурационка1/log.csv"
