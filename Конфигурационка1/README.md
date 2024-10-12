@@ -42,7 +42,7 @@
 [emulator]
 vfs_path = "C:/Users/Артур/Downloads/Конфигурационка1/filesystem.zip"
 log_file = "C:/Users/Артур/Downloads/Конфигурационка1/log.csv"
-
+```python
 
 Пример использования:
 Эмулятор загружает виртуальную файловую систему из архива filesystem.zip.
